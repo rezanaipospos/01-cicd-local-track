@@ -1,0 +1,20 @@
+* text=auto eol=lf
+
+*.sh text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+*.hcl text eol=lf
+*.tf text eol=lf
+*.j2 text eol=lf
+*.groovy text eol=lf
+Dockerfile text eol=lf
+Jenkinsfile text eol=lf
+.env* text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
